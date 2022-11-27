@@ -1,0 +1,4 @@
+baseURL = 'http://teleported.in/'
+languageCode = 'en-us'
+title = 'Teleported.in'
+theme = 'ezhil'
